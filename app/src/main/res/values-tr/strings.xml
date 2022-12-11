@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Discord</string>
+    <string name="welcome_message">Discord\'a Hoş Geldin</string>
+    <string name="description">Topluluklarıyla ve arkadaşlarıyla konuşmak için Discord kullanan 100 milyonda fazla kişiye
+    katıl.</string>
+    <string name="button_1">Kaydol</string>
+    <string name="button_2">Giriş Yap</string>
+
+</resources>

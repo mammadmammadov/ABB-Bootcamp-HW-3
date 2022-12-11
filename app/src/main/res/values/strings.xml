@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Discord</string>
+    <string name="welcome_message">Welcome to Discord</string>
+    <string name="description">Join over 100 million people who use Discord to talk with communities and friends</string>
+    <string name="button_1">Register</string>
+    <string name="button_2">Log In </string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!--    My colors-->
+    <color name="backGroundColorDarkMode">#363940</color>
+    <color name="DescriptionColor">#5a5c61</color>
+    <color name="button1Colors">#5865f2</color>
+    <color name="button2Colors">#4f535c</color>
+    <color name="WhiteModeTitle">#7700ff</color>
+    <color name="DescriptionDarkMode">#9b9ba3</color>
+    <color name="DarkModeButton1">#5865f2</color>
+    <color name="WelcomeMessage">#FF000000</color>
+</resources>
